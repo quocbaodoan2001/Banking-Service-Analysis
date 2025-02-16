@@ -162,3 +162,4 @@ from vp_bank.vp_bank_data vbd
 
 
 
+ECHO is on.
